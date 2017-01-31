@@ -1,0 +1,56 @@
+#hidden-word{
+color:white;
+height: 50px;
+width: 34px;
+margin: 40px;
+
+
+}
+body{
+  background-color: green;
+}
+#letters {
+  display:inline;
+  color:orange;
+  font-style: italic;
+  font-size: 30px;
+  letter-spacing: 30px;
+  border: 20px;
+
+}
+container{
+  border:1px solid black;
+}
+
+h1{
+  font-family: 'Cookie', cursive;
+  color: #d70000	;
+   text-shadow: 0 0 3px #FF0000;
+};
+#surprise{
+  max-width: 50% ;
+  height:auto;
+}
+
+span{
+  border:1px 1px 1px 1px;
+  display: inline;
+  border-style: dotted;
+  border-color: red;
+  color:blue;
+  font-size: 25px;
+  float: right;
+  padding: 0px 5px 0px 5px;
+  margin-right: 5px;
+}
+.skull{
+  width:20%;
+  height: auto;
+  position:fixed;
+  left:500px;
+  top:47px;
+}
+#foto{
+  max-width:50%;
+  height: auto;
+}
