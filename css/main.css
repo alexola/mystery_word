@@ -6,7 +6,9 @@
 }
 
 body {
-    background-color: green;
+    background-color: #29a329;
+
+
 }
 
 .letters {
@@ -67,11 +69,11 @@ span {
 }
 
 html {
-    border: red solid 8px;
+    border: #ffff99 solid 8px;
     border-style: dotted;
     border-radius: 10px;
     margin: 30px;
-    background: white;
+    background-image: url("../img/back.jpg");
 }
 
 .container {

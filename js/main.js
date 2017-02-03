@@ -3,7 +3,7 @@
 var rndWords = ["PONCHE", "COOPERACHA", "TEQUILA", "XOLOITZCUINTLE", "NOPAL", "VOCHO", "TORTA", "MOLE", "CATRINA", "TLACUACHE"];
 
 var random;
-
+alert("Use your keyboard\n Try to guess the word that you see on each image \n Push Play! to start\n ¡Picale! to get a new image\n ¡Petateaste! to get the whole word ");
 function startGame(){
 
       random = rndWords[Math.floor(Math.random() * rndWords.length)];
