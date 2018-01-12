@@ -18,9 +18,6 @@ body {
     border: 20px;
 }
 
-container {
-    border: 1px solid black;
-}
 
 h1 {
     font-family: 'Cookie', cursive;
@@ -78,6 +75,7 @@ html {
     border: #e8e1e1 solid 8px;
     border-style: double;
     border-radius: 10px;
+    width: 100%;
 }
 
 #randomWord1 {
